@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(45, 210, 64);
+}
+
+h1{
+    text-align: center;
+}
+
+#celular{
+    background-color: aliceblue;
+    text-align: center;
+    width: 200px ;
+    margin-left: 250px;
+    border-radius: 50px;
+    padding: 50px;
+    border-color: 100px, blue;
+}
+#a{
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+#c{
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
+#b{
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+}
